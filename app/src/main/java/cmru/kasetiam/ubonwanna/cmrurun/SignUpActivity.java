@@ -35,6 +35,7 @@ public class SignUpActivity extends AppCompatActivity {
 
 
 
+
     } // Main Method
 
 } // Main class
